@@ -81,7 +81,7 @@ function acknowledge(evt){
     addSelected.innerHTML = `<img src="${information[index].url}" alt="${information[index].title}'s poster." style="width: 100%"><h1>${information[index].title} (${information[index].year})</h1>
     <p><strong>${information[index].genre}</strong> - <strong>${information[index].format}</strong></p>
     <p>${information[index].description}</p>
-    <table id="tracklist"><tr><th>Track Name</th><th>Side</th><th>Runtime</th></tr><table>
+    <table id="tracklist"><tr><th>Track Name              </th><th>Side                </th><th>Runtime</th></tr><table>
     `;
     pannels.style.width = "65%";
     location.style.width = "35%";
