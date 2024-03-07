@@ -338,5 +338,27 @@
              "genre":"Hard Rock",
              "img_url":"https://upload.wikimedia.org/wikipedia/en/b/b6/REO_Speedwagon_Hi_Infidelity_CD_cover.JPG"
          }
-    ]
+    ],
+    "misc":[
+        {
+            "title":"Coffee Mug",
+             "description":"Favorite Coffee Mug",
+             "img_url":"https://upload.wikimedia.org/wikipedia/en/b/b6/REO_Speedwagon_Hi_Infidelity_CD_cover.JPG"
+         },
+         {
+             "title":"ToolKit",
+             "description":"Tools collected over the years.",
+             "img_url":""
+         },
+         {
+             "title":"Batteries",
+             "description":"Assortment of Batteries",
+             "img_url":""
+         },
+         {
+             "title":"Spare Keys",
+             "description":"Spare keys for your car",
+             "img_url":""
+         }
+        ]
 }

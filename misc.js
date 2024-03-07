@@ -13,7 +13,7 @@ fetch("./itemsComplete.json")
 .then(response => response.json())
 .then(myMisc => loadMovies(myMisc));
 
-function loadMovies(myMusic){
+function loadMovies(myMisc){
     var cards = [];
     
     var CardMisc = document.getElementById("col");
