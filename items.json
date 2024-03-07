@@ -1,0 +1,492 @@
+{
+    "movies": [
+        {
+           "title":"Avengers: Infinity War",
+            "year": 2018,
+            "description":"As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "format":"Blu-Ray",
+            "genre":"Superhero",
+            "img_url":"https://m.media-amazon.com/images/I/916U9v188pL._SL1500_.jpg"
+        },
+        {
+            "title":"Click",
+            "year": 2006,
+            "description":"A married workaholic, Michael Newman doesn't have time for his wife and children, not if he's to impress his ungrateful boss and earn a well-deserved promotion. So when he meets Morty, a loopy sales clerk, he gets the answer to his prayers: a magical remote that allows him to bypass life's little distractions with increasingly hysterical results.",
+            "format":"DVD",
+            "genre":"Comedy/Fantasy",
+            "img_url":"https://i.ebayimg.com/images/g/E8IAAMXQjq5Q90Pw/s-l600.jpg"
+        },
+        {
+            "title":"Seabiscuit",
+            "year": 2003,
+            "description":"In the midst of the Great Depression, a businessman (Jeff Bridges) coping with the tragic death of his son, a jockey with a history of brutal injuries (Tobey Maguire) and a down-and-out horse trainer (Chris Cooper) team up to help Seabiscuit, a temperamental, undersized racehorse. At first the horse struggles to win, but eventually Seabiscuit becomes one of the most successful thoroughbreds of all time, and inspires a nation at a time when it needs it most.",
+            "format":"DVD",
+            "genre":"Sport/Documentary",
+            "img_url":"https://m.media-amazon.com/images/I/81VTwKxixtL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title":"Caddyshack",
+            "year": 1980,
+            "description":"Danny Noonan (Michael O'Keefe), a teen down on his luck, works as a caddy at the snob-infested Bushwood Country Club to raise money for his college education. In an attempt to gain votes for a college scholarship reserved for caddies, Noonan volunteers to caddy for a prominent and influential club member (Ted Knight). Meanwhile, Danny struggles to prepare for the high pressure Caddy Day golf tournament while absorbing New Age advice from wealthy golf guru Ty Webb (Chevy Chase).",
+            "format":"DVD",
+            "genre":"Comedy",
+            "img_url":"https://m.media-amazon.com/images/I/61pwJ-fuU5L._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title":"Taken 2 - Unrated Cut",
+            "year": 2012,
+            "description":"Two years ago, retired CIA agent Bryan Mills (Liam Neeson) used his 'particular set of skills' to rescue his daughter, Kim (Maggie Grace), from kidnappers. Since then, Kim has been learning self-defense from her father, and Bryan has been on a personal mission to reunite with his ex-wife (Famke Janssen). In Istanbul, Bryan and his family cross paths with Murad (Rade Serbedzija), whose son died at Bryan's hand during Kim's rescue. Murad wants revenge, and he'll stop at nothing to get it.",
+            "format":"Blu-Ray",
+            "genre":"Action/Thriller",
+            "img_url":"https://i.ebayimg.com/images/g/bQ0AAOSw7IBi0DT~/s-l1600.jpg"
+        },
+        {
+            "title":"John Wick Chapter 2",
+            "year": 2017,
+            "description":"Retired super-assassin John Wick's plans to resume a quiet civilian life are cut short when Italian gangster Santino D'Antonio shows up on his doorstep with a gold marker, compelling him to repay past favours. Ordered by Winston, the kingpin of secret assassin society The Continental, to respect the organisation's ancient code, Wick reluctantly accepts the assignment to travel to Rome to take out D'Antonio's sister, the ruthless capo atop the Italian Camorra crime syndicate.",
+            "format":"Blu-Ray",
+            "genre":"Action/Thriller",
+            "img_url":"https://m.media-amazon.com/images/I/81CpGYnsBtL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title":"Support Your Local Gunfighter",
+            "year": 1971,
+            "description":"When traveling con man Latigo Smith (James Garner) drifts into a small Western town, he decides to take advantage of a local rivalry between gold-mining factions. Recruiting the shifty Jug May (Jack Elam) to pose as a notorious gunfighter, Smith sets his scheme in motion, while also taking time to romance the lovely Patience Barton (Suzanne Pleshette). However, after his ruse is uncovered, Smith incurs the wrath of the real hired gun, among others, leading to a big shoot-out.",
+            "format":"DVD",
+            "genre":"Comedy/Western",
+            "img_url":"https://m.media-amazon.com/images/I/51fPSU17XrL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title":"A Fistful of Dollars",
+            "year": 1964,
+            "description":"Wandering gunfighter Joe arrives in the Mexican village of San Miguel in the midst of a power struggle among sheriff John Baxter and the three Rojo brothers. When a regiment of Mexican soldiers bearing gold is waylaid by the Rojo brothers, Joe is hired by Esteban to join the gang, but he plays one side against the other.",
+            "format":"DVD",
+            "genre":"Western/Action",
+            "img_url":"https://i.ebayimg.com/images/g/XCYAAOSwSKBeMIp1/s-l1600.jpg"
+        },
+        {
+            "title":"RV",
+            "year": 2006,
+            "description":"The Munros are a typically American dysfunctional family, complete with rebellious, uncommunicative offspring and baffled parents. Patriarch Bob (Robin Williams) would like to remedy the situation before his son and daughter instant-message their parents out of their lives. Bob rents a motor home to take the clan on vacation but soon finds that camping and togetherness can be hazardous to one's health.",
+            "format":"DVD",
+            "genre":"Family/Comedy",
+            "img_url":"https://m.media-amazon.com/images/I/61OGdOJdaNL._AC_UF894,1000_QL80_.jpg"
+        }
+    ],
+    "music":[
+        {
+            "title":"Toto",
+            "artist":"Toto",
+             "year": 1978,
+             "description":"Toto is the debut studio album by American rock band Toto. It was released in 1978 and includes the hit singles 'Hold the Line', 'I'll Supply the Love' and 'Georgy Porgy', all three of which made it into the Top 50 in the USA.[5] 'Hold the Line' spent six weeks in the Top 10, and reached Number 14 in the UK as well.[6] Although not initially very well received by critics, the band quickly gained a following,[7] and the album gained a reputation for its characteristic sound, mixing soft pop with both synth- and hard-rock elements. The band would venture deeper into hard rock territory on their next album.",
+             "format":"Vinyl",
+             "songs":[
+                {
+                    "title":"Child's Anthem",
+                    "runtime":"2:46",
+                    "side":"A"
+                },
+                {
+                    "title":"I'll Supply the Love",
+                    "runtime":"3:46",
+                    "side":"A"
+                },
+                {
+                    "title":"Georgy Porgy",
+                    "runtime":"4:09",
+                    "side":"A"
+                },
+                {
+                    "title":"Manuela Run",
+                    "runtime":"3:54",
+                    "side":"A"
+                },
+                {
+                    "title":"You Are the Flower",
+                    "runtime":"4:11",
+                    "side":"A"
+                },
+                {
+                    "title":"Girl Goodbye",
+                    "runtime":"6:13",
+                    "side":"B"
+                },
+                {
+                    "title":"Takin' It Back",
+                    "runtime":"3:47",
+                    "side":"B"
+                },
+                {
+                    "title":"Rockmaker",
+                    "runtime":"3:19",
+                    "side":"B"
+                },
+                {
+                    "title":"Hold the Line",
+                    "runtime":"3:56",
+                    "side":"B"
+                },
+                {
+                    "title":"Angela",
+                    "runtime":"5:31",
+                    "side":"B"
+                }
+             ],
+             "genre":"Rock",
+             "img_url":"https://upload.wikimedia.org/wikipedia/en/a/a1/Toto_Toto.jpg"
+         },
+         {
+             "title":"Sports",
+            "artist":"Huey Lewis & The News",
+             "year":1983,
+             "description":"Sports is the third album by American rock band Huey Lewis and the News, released on September 15, 1983, by Chrysalis Records. It reached No. 1 on the Billboard 200 on June 30, 1984, and ultimately charted for 160 weeks. Sports was ranked No. 2 on the Billboard year-end album chart for 1984 and spawned four top-ten hits on the Billboard Hot 100, with 'Heart and Soul' and 'The Heart of Rock & Roll' earning Grammy Award nominations. Sports also did very well internationally, where most of its singles charted in the top 40 in multiple countries. The album has been certified 7× Platinum by the RIAA.",
+             "format":"Vinyl",
+             "songs":[
+                {
+                    "title":"The Heart of Rock & Roll",
+                    "runtime":"5:04",
+                    "side":"A"
+                },
+                {
+                    "title":"Heart and Soul",
+                    "runtime":"4:13",
+                    "side":"A"
+                },
+                {
+                    "title":"Bad Is Bad",
+                    "runtime":"3:48",
+                    "side":"A"
+                },
+                {
+                    "title":"I Want a New Drug",
+                    "runtime":"4:46",
+                    "side":"A"
+                },
+                {
+                    "title":"Walking on a Thin Line",
+                    "runtime":"5:11",
+                    "side":"B"
+                },
+                {
+                    "title":"Finally Found a Home",
+                    "runtime":"3:43",
+                    "side":"B"
+                },
+                {
+                    "title":"If This Is It",
+                    "runtime":"3:54",
+                    "side":"B"
+                },
+                {
+                    "title":"You Crack Me Up",
+                    "runtime":"3:42",
+                    "side":"B"
+                },
+                {
+                    "title":"Honky Tonk Blues",
+                    "runtime":"3:36",
+                    "side":"B"
+                }
+             ],
+             "genre":"Rock",
+             "img_url":"https://upload.wikimedia.org/wikipedia/en/5/57/Huey_Lewis_and_the_News_-_Sports.png"
+         },
+         {
+             "title":"Chicago VII",
+            "artist":"Chicago",
+             "year":1974,
+             "description":"Chicago VII is the sixth studio album by American rock band Chicago. It was released on March 11, 1974 by Columbia Records. It is notable for being their first double album of new material since 1971's Chicago III and remains their final studio release in that format. It features session percussionist Laudir de Oliveira, who would become a full-fledged band member for the release of Chicago VIII the following year.",
+             "format":"Vinyl",
+             "songs":[
+                {
+                    "title":"Prelude to Aire",
+                    "runtime":"2:47",
+                    "side":"A"
+                },
+                {
+                    "title":"Aire",
+                    "runtime":"6:27",
+                    "side":"A"
+                },
+                {
+                    "title":"Devil's Sweet",
+                    "runtime":"10:07",
+                    "side":"A"
+                },
+                {
+                    "title":"Italian from New York",
+                    "runtime":"4:14",
+                    "side":"B"
+                },
+                {
+                    "title":"Hanky Panky",
+                    "runtime":"1:53",
+                    "side":"B"
+                },
+                {
+                    "title":"Life Saver",
+                    "runtime":"5:18",
+                    "side":"B"
+                },
+                {
+                    "title":"Happy Man",
+                    "runtime":"3:34",
+                    "side":"B"
+                },
+                {
+                    "title":"(I've Been) Serchin' So Long",
+                    "runtime":"4:29",
+                    "side":"C"
+                },
+                {
+                    "title":"Mongonucleosis",
+                    "runtime":"3:26",
+                    "side":"C"
+                },
+                {
+                    "title":"Song of the Evergreens",
+                    "runtime":"5:20",
+                    "side":"C"
+                },
+                {
+                    "title":"Byblos",
+                    "runtime":"6:18",
+                    "side":"C"
+                },
+                {
+                    "title":"Wishing You Were Here",
+                    "runtime":"4:37",
+                    "side":"D"
+                },
+                {
+                    "title":"Call on Me",
+                    "runtime":"4:02",
+                    "side":"D"
+                },
+                {
+                    "title":"Woman Don't Want To Love Me",
+                    "runtime":"4:35",
+                    "side":"D"
+                },
+                {
+                    "title":"Skinny Boy",
+                    "runtime":"5:12",
+                    "side":"D"
+                }
+             ],
+             "genre":"Jazz Fusion",
+             "img_url":"https://upload.wikimedia.org/wikipedia/en/f/ff/Chicago_-_Chicago_VII.jpg"
+         },
+         {
+             "title":"hi infidelity",
+             "artist":"REO Speedwagon",
+             "year":1980,
+             "description":"Hi Infidelity is the ninth studio album by American rock band REO Speedwagon, released on November 21, 1980, by Epic Records. The album became a big hit in the United States, peaking at number one on the Billboard 200. It went on to become the biggest-selling album of 1981, eventually being certified 10 times platinum by the Recording Industry Association of America. Of the four singles released, 'Take It on the Run' went to number 5 on the Billboard Hot 100, and the band got their first of two number one hits with 'Keep On Loving You'.",
+             "format":"Vinyl",
+             "songs":[
+                {
+                    "title":"Don't Let Him Go",
+                    "runtime":"3:47",
+                    "side":"A"
+                },
+                {
+                    "title":"Keep on Loving You",
+                    "runtime":"3:23",
+                    "side":"A"
+                },
+                {
+                    "title":"Follow My Heart",
+                    "runtime":"3:50",
+                    "side":"A"
+                },
+                {
+                    "title":"In Your Letter",
+                    "runtime":"3:20",
+                    "side":"A"
+                },
+                {
+                    "title":"Take It on the Run",
+                    "runtime":"4:01",
+                    "side":"A"
+                },
+                {
+                    "title":"Tough Guys",
+                    "runtime":"3:51",
+                    "side":"B"
+                },
+                {
+                    "title":"Out of Season",
+                    "runtime":"3:07",
+                    "side":"B"
+                },
+                {
+                    "title":"Shakin' It Loose",
+                    "runtime":"2:27",
+                    "side":"B"
+                },
+                {
+                    "title":"Someone Tonight",
+                    "runtime":"2:41",
+                    "side":"B"
+                },
+                {
+                    "title":"I Wish You Were There",
+                    "runtime":"4:27",
+                    "side":"B"
+                }
+             ],
+             "genre":"Hard Rock",
+             "img_url":"https://upload.wikimedia.org/wikipedia/en/b/b6/REO_Speedwagon_Hi_Infidelity_CD_cover.JPG"
+         },
+         {
+             "title":"",
+             "artist":"",
+             "year":,
+             "description":"",
+             "format":"",
+             "songs":[
+                {
+                    "title":"",
+                    "runtime":"",
+                    "side":""
+                }
+             ],
+             "genre":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "artist":"",
+             "year":,
+             "description":"",
+             "format":"",
+             "songs":[
+                {
+                    "title":"",
+                    "runtime":"",
+                    "side":""
+                },
+             ],
+             "genre":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "artist":"",
+             "year":,
+             "description":"",
+             "format":"",
+             "songs":[
+                {
+                    "title":"",
+                    "runtime":"",
+                    "side":""
+                },
+             ],
+             "genre":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "artist":"",
+             "year":,
+             "description":"",
+             "format":"",
+             "songs":[
+                {
+                    "title":"",
+                    "runtime":"",
+                    "side":""
+                },
+             ],
+             "genre":"",
+             "img_url":""
+         }
+
+    ],
+    "misc":[
+        {
+            "title":"",
+             "description":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "description":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "description":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "description":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "description":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "description":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "description":"",
+             "img_url":""
+         },
+         {
+             "title":"",
+             "description":"",
+             "img_url":""
+         }
+    ]
+  }
+
+//   {
+//     "title":"",
+//      "year":,
+//      "description":"",
+//      "genre":"",
+//      "img_url":""
+//  },
+//  {
+//      "title":"",
+//      "year":,
+//      "description":"",
+//      "genre":"",
+//      "img_url":""
+//  },
+//  {
+//      "title":"",
+//      "year":,
+//      "description":"",
+//      "genre":"",
+//      "img_url":""
+//  },
+//  {
+//      "title":"",
+//      "year":,
+//      "description":"",
+//      "genre":"",
+//      "img_url":""
+//  },
+//  {
+//      "title":"",
+//      "year":,
+//      "description":"",
+//      "genre":"",
+//      "img_url":""
+//  },
+//  {
+//      "title":"",
+//      "year":,
+//      "description":"",
+//      "genre":"",
+//      "img_url":""
+//  }
