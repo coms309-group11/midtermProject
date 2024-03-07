@@ -56,24 +56,12 @@ function acknowledge(evt){
     location.innerHTML = "";
     let addSelected = document.createElement("div");
     addSelected.innerHTML = `<img src="${information[index].url}" alt="${information[index].title}'s poster." style="width: 100%"><h1>${information[index].title} (${information[index].year})</h1>
-    <p><strong>${information[index].genre}</strong> - <strong>${information[index].format}</strong></p>
+    <p><strong>${information[index].format}</strong></p>
     <p>${information[index].description}</p>
-    <table id="tracklist"><tr><th>Track Name              </th><th>Side                </th><th>Runtime</th></tr><table>
     `;
     pannels.style.width = "65%";
     location.style.width = "35%";
     location.style.display = "block";
     location.appendChild(addSelected);
     let list = document.getElementById("items");
-    // information[index].songs.forEach((songParam,indexNew) => {
-    //     console.log(information[index].songs[indexNew].title);
-    //     let addTrack = document.createElement("tr");
-    //     addTrack.innerHTML = `
-    //     <th>${information[index].songs[indexNew].title}</th>
-    //     <th>${information[index].songs[indexNew].side}</th>
-    //     <th>${information[index].songs[indexNew].runtime}</th>
-    //     `;
-    //     list.appendChild(addTrack);
-    // });
-
 }
