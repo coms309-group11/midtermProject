@@ -55,8 +55,8 @@ function acknowledge(evt){
     let index = evt.currentTarget.myParam;
     location.innerHTML = "";
     let addSelected = document.createElement("div");
-    addSelected.innerHTML = `<img src="${information[index].url}" alt="${information[index].title}'s poster." style="width: 100%"><h1>${information[index].title} (${information[index].year})</h1>
-    <p><strong>${information[index].format}</strong></p>
+    addSelected.innerHTML = `<img src="${information[index].url}" alt="${information[index].title}'s poster." style="width: 100%"><h1>${information[index].title}</h1>
+    
     <p>${information[index].description}</p>
     `;
     pannels.style.width = "65%";
