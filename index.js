@@ -1,0 +1,1 @@
+// Index page just a landing. Didn't need any js. There is plenty more in the project.

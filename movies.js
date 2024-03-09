@@ -14,7 +14,7 @@ class Movie{
 }
 
 var information = [];
-fetch("./itemsComplete.json")
+fetch("./data.json")
 .then(response => response.json())
 .then(myMovies => loadMovies(myMovies));
 

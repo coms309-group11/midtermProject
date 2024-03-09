@@ -24,7 +24,7 @@ class Album{
 }
 
 var information = [];
-fetch("./itemsComplete.json")
+fetch("./data.json")
 .then(response => response.json())
 .then(myMusic => loadMovies(myMusic));
 
